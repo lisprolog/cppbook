@@ -1,2 +1,2 @@
 # cppbook
-fun with c++ books
+fun with C++ book
